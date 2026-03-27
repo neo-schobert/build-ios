@@ -2286,9 +2286,9 @@ static const Il2CppCatchPoint g_catchPoints[1] = { { 0, 0, 0, 0, } };
 static const Il2CppSequencePointSourceFile g_sequencePointSourceFiles[] = {
 { "", { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0} },
 { "C:\\Users\\neosc\\Desktop\\Education\\IMT_Atlantique\\3eme_Annee\\Semestre_2\\VR\\Projet Final\\Projet-Final-RVRA\\Unity.SourceGenerators\\Unity.MonoScriptGenerator.MonoScriptInfoGenerator\\AssemblyMonoScriptTypes.generated.cs", { 178, 167, 2, 251, 105, 35, 222, 219, 102, 132, 173, 214, 212, 95, 90, 230} },
-{ "C:\\Users\\neosc\\Desktop\\Education\\IMT_Atlantique\\3eme_Annee\\Semestre_2\\VR\\Projet Final\\Projet-Final-RVRA\\Assets\\Samples\\XR Interaction Toolkit\\3.3.1\\XR Device Simulator\\Scripts\\XRDeviceSimulatorControllerUI.cs", { 222, 96, 15, 138, 249, 18, 250, 5, 7, 140, 191, 251, 138, 161, 27, 186} },
-{ "C:\\Users\\neosc\\Desktop\\Education\\IMT_Atlantique\\3eme_Annee\\Semestre_2\\VR\\Projet Final\\Projet-Final-RVRA\\Assets\\Samples\\XR Interaction Toolkit\\3.3.1\\XR Device Simulator\\Scripts\\XRDeviceSimulatorHandsUI.cs", { 240, 74, 216, 186, 247, 205, 69, 117, 0, 238, 19, 46, 26, 9, 20, 16} },
-{ "C:\\Users\\neosc\\Desktop\\Education\\IMT_Atlantique\\3eme_Annee\\Semestre_2\\VR\\Projet Final\\Projet-Final-RVRA\\Assets\\Samples\\XR Interaction Toolkit\\3.3.1\\XR Device Simulator\\Scripts\\XRDeviceSimulatorUI.cs", { 186, 30, 202, 75, 181, 96, 175, 33, 138, 43, 141, 230, 17, 250, 111, 100} },
+{ "C:\\Users\\neosc\\Desktop\\Education\\IMT_Atlantique\\3eme_Annee\\Semestre_2\\VR\\Projet Final\\Projet-Final-RVRA\\Assets\\Samples\\XR Interaction Toolkit\\3.3.1\\XR Device Simulator\\Scripts\\XRDeviceSimulatorControllerUI.cs", { 73, 31, 133, 218, 138, 95, 19, 12, 37, 118, 18, 212, 199, 89, 114, 97} },
+{ "C:\\Users\\neosc\\Desktop\\Education\\IMT_Atlantique\\3eme_Annee\\Semestre_2\\VR\\Projet Final\\Projet-Final-RVRA\\Assets\\Samples\\XR Interaction Toolkit\\3.3.1\\XR Device Simulator\\Scripts\\XRDeviceSimulatorHandsUI.cs", { 87, 183, 49, 66, 55, 19, 24, 89, 252, 218, 231, 192, 249, 203, 25, 35} },
+{ "C:\\Users\\neosc\\Desktop\\Education\\IMT_Atlantique\\3eme_Annee\\Semestre_2\\VR\\Projet Final\\Projet-Final-RVRA\\Assets\\Samples\\XR Interaction Toolkit\\3.3.1\\XR Device Simulator\\Scripts\\XRDeviceSimulatorUI.cs", { 220, 218, 220, 233, 231, 68, 60, 67, 36, 250, 101, 119, 16, 3, 147, 144} },
 };
 #else
 static const Il2CppSequencePointSourceFile g_sequencePointSourceFiles[1] = { NULL, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };

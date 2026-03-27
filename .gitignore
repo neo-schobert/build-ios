@@ -1,8 +1,12 @@
-# Xcode local cache (pas nécessaire pour CI)
+# Xcode cache (regénéré par Xcode automatiquement)
 DerivedData/
 *.xcuserstate
 xcuserdata/
-.DS_Store
+*.xcworkspace/xcuserdata/
 
-# Pods si présents
-Pods/
+# OS
+.DS_Store
+Thumbs.db
+
+# Pods (si tu uses CocoaPods, la CI les réinstalle)
+# Pods/   ← garde cette ligne commentée si tu as un Podfile.lock

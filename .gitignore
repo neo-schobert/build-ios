@@ -1,0 +1,8 @@
+# Xcode local cache (pas nécessaire pour CI)
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+
+# Pods si présents
+Pods/
